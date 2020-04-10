@@ -27,7 +27,6 @@ Use Perspective to create the chart for the trader’s dashboard.
 	<li>Update the graph to also track the historical upper and lower bounds of the stocks' ratio</li>
 	<li>Trigger 'alerts' (i.e. draw red lines) on the graph whenever the bounds are crossed by the calculated ratio in a specific time period</li>
 	<li>Upload a git patch file as the submission to this task</li>	
-  	<li>Upload a video detailing your process and work</li>
 </ol>
 
 <h2 id="installation" >Setup / Installation</h2>
@@ -57,9 +56,3 @@ If you don't have `npm` (although you should if you followed the set up / instal
 The recommended version are node v11.0.0 and npm v6.4.1
 
 Open http://localhost:3000 to view the app in the browser. The page will reload if you make edits.
-
-<h2>How to fix the code to meet the objectives</h2>
-<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m3_v2.pdf">follow this guide</a>.</p>
-
-<h2>How to submit your work</h2>
-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
