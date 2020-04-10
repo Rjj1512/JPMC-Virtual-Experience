@@ -1,2 +1,2 @@
-# JPMC-Virtual-Internship
-InsideSherpa's JPMC Software Engineering Virtual Internship
+# JPMC-Virtual-Experience
+InsideSherpa's JPMC Software Engineering Virtual Experience
